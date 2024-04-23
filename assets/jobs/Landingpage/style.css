@@ -1,0 +1,42 @@
+.banner {
+    background-image: url(img/banner_1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+text-align: right;
+color: #ffff;
+font-size: 17px;
+padding: 35px;
+}
+
+.productos{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.producto2 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.descripcion {
+    margin-left: 30px;
+}
+
+.descripcion2 {
+    margin-left: 30px;
+}
+
+.producto3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.descripcion3 {
+    margin-left: 30px;
+}

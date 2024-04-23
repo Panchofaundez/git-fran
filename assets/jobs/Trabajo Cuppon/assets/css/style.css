@@ -1,0 +1,44 @@
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+:root {
+ --light: #F8F9FA;
+ --success: #28a745;
+ --white: #fff;
+ --color-1: #212529;
+ --color-2: #707070;
+}
+
+.bg-green-success {
+    background-color: var(--success);
+}
+
+.texto-gray-2 {
+    color: var(--color-2);
+}
+
+.text-success {
+    color: var(--success);
+}
+
+.text-light-1 {
+ color: var(--light);
+}
+
+.text-white-200 {
+   color: var(--white);
+}
+
+.text-balck-200 {
+   color: var(--color-1)
+}
+

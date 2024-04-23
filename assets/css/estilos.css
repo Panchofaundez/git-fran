@@ -5,10 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/dark-forest.webp");
+  background-image: url("../img/fondo\ francisco.webp");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: right;
 }
 
 /* Mis trabajos */
